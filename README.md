@@ -3,9 +3,9 @@ Cybersec and kinda a developer
 
 
 ## 🌐 Socials:
-<p1>Instagram - https://www.instagram.com/fortunela_gaming/</p1>
-<p1>Printables - https://www.printables.com/@GamingFortun_2868921</p1>
-<p1>Reddit - https://www.reddit.com/user/FortunelaGaming/</p1>
+<h4>Instagram - https://www.instagram.com/fortunela_gaming/</h4>
+<h4>Printables - https://www.printables.com/@GamingFortun_2868921</h4>
+<h4>Reddit - https://www.reddit.com/user/FortunelaGaming/</h4>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
