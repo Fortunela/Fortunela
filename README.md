@@ -3,7 +3,7 @@ Cybersec and kinda a developer
 
 
 ## 🌐 Socials:
-<h4>Instagram -> https://www.instagram.com/fortunela_gaming/</h4>
+<h4>https://www.youtube.com/watch?v=0O11oEp7QYw&list=PL6gx4Cwl9DGBBnHFDEANbv9q8T4CONGZEInstagram -> https://www.instagram.com/fortunela_gaming/</h4>
 <h4>Printables -> https://www.printables.com/@GamingFortun_2868921</h4>
 <h4>Reddit -> https://www.reddit.com/user/FortunelaGaming/</h4>
 
