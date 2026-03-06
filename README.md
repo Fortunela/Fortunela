@@ -1,5 +1,5 @@
 # Welcome
-Cybersec and kinda a developer
+Cybersecurity and app developer for linux
 
 
 ## 🌐 Socials:
