@@ -9,5 +9,10 @@ Cybersecurity and app developer for linux
 <h4>𝕿𝖍𝖒 -> https://tryhackme.com/p/fortunela</h4>
 
 # Language:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<h3>𝖕𝖞𝖙𝖍𝖔𝖓</h3>
+<h3>𝖍𝖙𝖒𝖑</h3>
+<h3>𝖉𝖚𝖈𝖐𝖘𝖈𝖗𝖎𝖕𝖙</h3>
+<h3>𝖆𝖗𝖉𝖚𝖎𝖓𝖔</h3>
+<h3>𝖑𝖎𝖓𝖚𝖝</h3>
+
 
