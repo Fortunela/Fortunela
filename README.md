@@ -1,6 +1,6 @@
 # Welcome
--> Cybersecurity
--> Linux terminal app developer
+<h2></h2>-> Cybersecurity</h2>
+<h2>-> Linux terminal app developer</h2>
 
 # 🔗 Socials:
 <h4>𝕴𝖓𝖘𝖙𝖆𝖌𝖗𝖆𝖒 -> https://www.instagram.com/fortunela_gaming/</h4>
@@ -18,4 +18,4 @@
 <h3>🐧 𝖑𝖎𝖓𝖚𝖝 / 𝖇𝖆𝖘𝖍</h3>
 
 
-<h1></h1>
+<h1>(⌐■_■)▄︻デ══━一  💥  🚩 ( Learning CTF )</h1>
